@@ -4,6 +4,12 @@ In order for your IA to be complete, you need to have a submission form. This is
 
 A couple things to note: this form should be anonymous. Under student name, instead use your candidate number (I will provide that to you). Under school code, put `Made anonymous for IB submission`. Under user name, put `Student`. 
 
+You should name your files in the documentation folder the following: `Crit_A_Planning.pdf` `Crit_B_Record_of_tasks.pdf` `Crit_B_Design.pdf` `Crit_C_Development.pdf` `Crit_D_Video_demo.wav/mp4/common video format` `Crit_E_Evaluation.pdf` `Appendix.pdf`.
+
+Additionally your candidate name is going to look something like `abc123` , ask me for yours exactly. 
+
+Finally the session number is `001518-xxxx` where I will give you the last four digits.  
+
 After you are sure that you no longer need the generic form you can delete it. 
 
 Your files should be in one of two folders. You should have all of your documentation in, unsurprisingly, the Documentation folder. That way the links from the HTML page will work. 
